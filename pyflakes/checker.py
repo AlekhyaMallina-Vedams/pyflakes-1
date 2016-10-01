@@ -31,12 +31,7 @@ except (ImportError, AttributeError):
 
 class Binding(object):
     """
-    Represents the binding of a value to a name.
-
-    The checker uses this to keep track of which names have been bound and
-    which names have not. See L{Assignment} for a special type of binding that
-    is checked with stricter rules.
-
+   
     @ivar used: pair of (L{Scope}, line-number) indicating the scope and
                 line number that this binding was last used
     """
