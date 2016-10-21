@@ -2,10 +2,7 @@
 # (c) 2005-2010 Divmod, Inc.
 # See LICENSE file for details
 
-#testing
-#new
-#fdgdfgdfgdfgdfgdfg
-#dsfgdfgdfgdfg
+
 
 import __builtin__
 import os.path
